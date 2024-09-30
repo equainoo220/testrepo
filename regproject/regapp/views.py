@@ -13,7 +13,6 @@ def userlogin(request):
 def userlogout(request):
     pass
 
-
 def registration(request):
     registered = False
     
