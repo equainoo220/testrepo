@@ -6,7 +6,11 @@ from regapp import forms
 def index(request):
     return render(request, 'index.html')
 
+def userlogin(request):
+    pass
 
+def userlogout(request):
+    pass
 
 def registration(request):
     registered = False
