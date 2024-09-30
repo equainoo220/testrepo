@@ -9,7 +9,6 @@ def index(request):
 def userlogin(request):
     pass
 
-
 def userlogout(request):
     pass
 
